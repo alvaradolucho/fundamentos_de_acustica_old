@@ -5,7 +5,7 @@ from ipywidgets import interact
 import numpy as np
 
 # Define the initial x-axis values
-t = np.linspace(0, 2, 200)
+t = np.linspace(0, 2, 400)
 
 # Define the figure layout
 fig = make_subplots(rows=1, cols=1)
