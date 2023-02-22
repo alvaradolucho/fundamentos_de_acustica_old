@@ -1,8 +1,22 @@
 # Fundamentos de Acústica SON-003
 
-Ingeniería/Técnico en Sonido IPST
-Otoño 2023
+Ingeniería/Técnico en Sonido 
 
+IPST Otoño 2023
+
+## Prof: Luis Alvarado P.
+
+```lalvarado2@santotomas.cl```
+
+MSc. en Acústica y Vibraciones UACh.
+
+Ing. Civil Acústico UACh.
+
+## Horario:
+| Sección | Día | Hora inicio | Hora término | Sala |
+|---|---|---|---|---|
+1 | Jueves | 8:00 | 10:30 | 4-6
+2 | Martes | 8:00 | 10:30 | 2-4
 ---
 
 ## Unidad 1 - Fundamentos del Sonido
